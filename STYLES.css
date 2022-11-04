@@ -1,0 +1,49 @@
+.header{
+    display: flex;
+}
+.h3{
+    text-align: right;
+}
+.div{
+    align-content: center;
+}
+.columnass{
+    text-align: right;
+    
+    justify-content:space-between;
+    
+    
+}
+h2{
+ text-align: right;
+ margin-right: 100px;
+}
+{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.alcano{
+    border: 1px solid;
+    height: 100px;
+    width: 200px;
+}
+.alqueno{
+    border: 1px solid;
+    height: 100px;
+    width: 200px;
+
+}
+.alquino{
+    border: 1px solid;
+    height: 100px;
+    width: 200px;
+}
+.tabla{
+    border: 1px solid;
+    height: 100px;
+    width: 200px;
+}
+
+    
